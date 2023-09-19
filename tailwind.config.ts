@@ -16,6 +16,9 @@ const config: Config = {
       fontFamily: {
         sans: ["var(--font-orbitron)"],
       },
+      colors: {
+        "brand-green-1": "#529361",
+      },
     },
   },
   plugins: [],
