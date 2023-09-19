@@ -1,3 +1,5 @@
+import { orbitron } from "@/fonts";
+
 export default function Page() {
-  return <h1>Coming soon!</h1>;
+  return <h1 className={orbitron.className}>SAM PARKER</h1>;
 }
